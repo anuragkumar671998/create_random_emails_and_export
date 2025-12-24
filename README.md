@@ -18,6 +18,15 @@ curl -s \
 "https://api.cloudflare.com/client/v4/zones/0848c8b48cfd5cb558ee23c224921702/email/routing/rules" \
 -H "Authorization: Bearer YOUR_API_TOKEN"
 
+
+
+
+This API token will affect the below accounts and zones, along with their respective permissions All accounts - Email Sending:Edit, Email Routing Addresses:Edit All zones - Email Routing Rules:Edit, Zone:Read
+
+
+
+
+
 UI
 
 Cloudflare Dashboard →
