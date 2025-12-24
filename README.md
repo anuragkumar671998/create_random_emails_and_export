@@ -1,9 +1,9 @@
 ▶️ RUN IT
-chmod +x cf_create_random_emails_and_export.sh
+chmod +x create_random_emails_and_export.sh
 ./create_random_emails_and_export.sh
 
 
-
+git clone https://github.com/anuragkumar671998/create_random_emails_and_export.git && cd create_random_emails_and_export && chmod +x create_random_emails_and_export.sh && sudo ./create_random_emails_and_export.sh
 
 
 📄 Output File Example (created_emails.txt)
